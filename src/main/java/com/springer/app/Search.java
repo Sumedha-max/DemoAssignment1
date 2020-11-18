@@ -17,7 +17,7 @@ public class Search {
 	@Test
 	public void SearchFunc() {
 		
-		String driverPath = "/Users/idq5414/Downloads/chromedriver";
+		String driverPath = "C:/Downloads/chromedriver";
 		String parentUrl = "https://link.springer.com/";
 		String searchKey = "science";
 		
